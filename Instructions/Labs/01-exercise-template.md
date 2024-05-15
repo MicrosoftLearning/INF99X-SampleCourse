@@ -78,7 +78,7 @@ Sometimes you might want to break a taak down into smaller chunks.
 1. Step 2
 1. Etc.
 
-### Subtask 1
+### Subtask 2
 
 1. Step 1
 1. Step 2

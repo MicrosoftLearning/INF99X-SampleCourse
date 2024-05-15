@@ -9,7 +9,7 @@ You can delete the module and edit index.md in the root of the repo to customize
 To enable GitHub page publishing, edit the Page settings for the repo and publish from the main branch
 -->
 
-## Exercise title <!-- match title in metadata above (and Learn Exercise unit and ILT slide)-->
+# Exercise title <!-- match title in metadata above (and Learn Exercise unit and ILT slide)-->
 
 In this exercise you will <!-- provide a description of what they'll do and why it;s important -->
 

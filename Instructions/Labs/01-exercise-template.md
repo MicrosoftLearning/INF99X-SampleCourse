@@ -1,7 +1,6 @@
 ---
 lab:
     title: 'Exercise Title'
-    module: 'Learn module title'
 ---
 <!--
 Edit the metadata above to manage the list of exercises in the home page of the GitHub site that gets generated.

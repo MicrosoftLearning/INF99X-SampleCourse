@@ -22,3 +22,9 @@ If a more complex setup is required, create a separate markdown file with setup 
 - [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }})
 {% endfor %}
 
+  &copy; 2025 Microsoft &nbsp;|&nbsp;
+  <a href="https://go.microsoft.com/fwlink/?LinkId=521839">Privacy </a>&nbsp;|&nbsp;
+  <a href="https://go.microsoft.com/fwlink/?LinkId=2259814">Consumer Health Privacy </a>&nbsp;|&nbsp;
+  <a onclick="window.manageConsent();">Cookies </a>&nbsp;|&nbsp;
+  <a href="https://go.microsoft.com/fwlink/?LinkID=206977">Terms of Use </a>&nbsp;|&nbsp;
+  <a href="https://www.microsoft.com/trademarks">Trademarks </a>

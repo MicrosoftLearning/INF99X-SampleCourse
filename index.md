@@ -4,7 +4,11 @@ permalink: index.html
 layout: home
 ---
 
-# Exercises
+<!--
+Change the title above AND IN THE _config.yml FILE (so that the page header in the GitHub Pages site automatically shows the site name).
+
+When you're ready for the labs to be live - make the repo public and enable GitHub Pages publishing from the main branch (in the repo Settings | Pages).
+-->
 
 This page lists exercises associated with Microsoft skilling content on [Microsoft Learn](https://learn.microsoft.com)
 

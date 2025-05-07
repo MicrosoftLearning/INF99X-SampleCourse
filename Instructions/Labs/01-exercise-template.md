@@ -17,10 +17,14 @@ This exercise should take approximately **XX** minutes to complete. <!-- update 
 ## Before you start
 
 <!--
-Add steps to get the learner to the starting point" for the exercise.
-This might be cloning the repo and running a script or performing some manual steps.
+Add steps to get the learner to the starting point" for the exercise. This might be cloning the repo and running a script or performing some manual steps.
+
 Only include this section if its necessary to do some pre-exercise setup AND the same setup steps are required for self-paced (on Learn) and managed (in hosted ILT lab profiles) scenarios. Otherwise delete this section.
 If self-paced /ILT-specific setup steps are required, include them in the Learn "Exercise" unit from where they open this exercise and in the Skillable lab profile instructions before this markdown file is imported.
+
+Do not include requirements for getting an Azure (or other) subscription (write the exercise on the assumption the learner has a functioning lab environment - this section is only for exercise-specific steps to get to a starting point)
+
+If there are complex setup steps that apply to ALL of the exercises in the repo (for example, installing and configuring client-side tools), create a separate 00-setup.md file with instructions.
  -->
 
 Before you can start this exercise, you will need to...

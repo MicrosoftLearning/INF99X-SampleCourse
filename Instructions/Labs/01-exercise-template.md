@@ -73,7 +73,7 @@ Now let's, ...
 
 ## Task with subtasks
 
-Sometimes you might want to break a taak down into smaller chunks.
+Sometimes you might want to break a task down into smaller chunks.
 
 ### Subtask 1
 

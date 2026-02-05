@@ -1,6 +1,8 @@
 ---
 lab:
     title: 'Exercise Title'
+    level: (100 to 500)
+    Duration: XX minutes
 ---
 <!--
 Edit the metadata above to manage the list of exercises in the home page of the GitHub site that gets generated.

@@ -21,7 +21,19 @@ Include the following note if an Azure subscription is required (or add somethin
 If a more complex setup is required, create a separate markdown file with setup instructions at \Instructions\Labs\00-setup.md - being sure to include "lab.title"" metadata at the top so it shows up the list below
 -->
 
+<hr>
+
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
 {% for activity in labs  %}
-- [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }})
+{% if activity.lab.title %}
+### [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }})
+
+
+{% if activity.lab.level %}**Level**: {{activity.lab.level}} \| {% endif %}{% if activity.lab.duration %}**Duration**: {{activity.lab.duration}}{% endif %}
+
+{% if activity.lab.description %}
+*{{activity.lab.description}}*
+{% endif %}
+<hr>
+{% endif %}
 {% endfor %}

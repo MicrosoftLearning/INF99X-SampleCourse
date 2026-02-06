@@ -1,6 +1,7 @@
 ---
 lab:
     title: 'Exercise Title'
+    description: 'Sentence describing the lab'
     level: (100 to 500)
     Duration: XX minutes
 ---

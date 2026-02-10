@@ -3,7 +3,7 @@ lab:
     title: 'Exercise Title'
     description: 'Sentence describing the lab'
     level: (100 to 500)
-    Duration: XX minutes
+    duration: XX minutes
 ---
 <!--
 Edit the metadata above to manage the list of exercises in the home page of the GitHub site that gets generated.

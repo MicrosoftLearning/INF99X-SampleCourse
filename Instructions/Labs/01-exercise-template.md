@@ -63,6 +63,7 @@ First, you need to ...
 1. Be flexible when providing instructions that might vary between self-paced and hosted lab environments. For example:
     - "Sign in using your Azure credentials" (assuming there were Learn-specific instructions to use a personal subscription or create a trial in the Learn exercise page, and ILT-specific instructions to use provided cloudslice credentials in the Skillable lab profile)
     - "Select an existing resource group or create a new one" (assuming that if a Skillable CS-R cloudslice is used, you included a note in the lab profile telling the learner which resource group they should use)
+    - Try to use consistent phrases for anything that might need to be "overwritten" by the replacement-text feature in thw Skillable profile.
     <!-- The key point is that this markdown file should be environment-agnostic - you need to provide explicit details of things that can vary OUTSIDE of this file (in the Learn exercise page or the Skillable lab profile instructions) -->
 1. etc.
 

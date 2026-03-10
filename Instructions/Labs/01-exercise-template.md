@@ -1,10 +1,12 @@
 ---
 lab:
-    title: 'Exercise Title'
-    description: 'Sentence describing the lab'
-    level: (100 to 500)
-    duration: 00
+  title: Exercise Title
+  description: Sentence describing the lab
+  level: (100 to 500)
+  duration: 0
+  islab: true
 ---
+
 <!--
 Edit the metadata above to manage the list of exercises in the home page of the GitHub site that gets generated.
 You can delete the module and edit index.md in the root of the repo to customize the display so that only the exercises are listed

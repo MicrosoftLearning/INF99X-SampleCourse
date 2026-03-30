@@ -2,8 +2,9 @@
 lab:
     title: 'Exercise Title'
     description: 'Sentence describing the lab'
-    level: (100 to 500)
-    duration: 00
+    duration: 00 minutes
+    level: (100 to 500) <!-- 100 basic concepts, 200 foundations, 300 practical usage, 400 advanced scenarios, 500 expert design -->
+    islab: true <!-- if not a lab, remove -->
 ---
 <!--
 Edit the metadata above to manage the list of exercises in the home page of the GitHub site that gets generated.

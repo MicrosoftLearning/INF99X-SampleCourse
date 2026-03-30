@@ -2,8 +2,8 @@
 lab:
     title: 'Exercise Title'
     description: 'Sentence describing the lab'
-    duration: 00 minutes
-    level: (100 to 500) <!-- 100 basic concepts, 200 foundations, 300 practical usage, 400 advanced scenarios, 500 expert design -->
+    duration: '00 minutes'
+    level: 100 <!-- 100 basic concepts, 200 foundations, 300 practical usage, 400 advanced scenarios, 500 expert design -->
     islab: true <!-- if not a lab, remove -->
 ---
 <!--

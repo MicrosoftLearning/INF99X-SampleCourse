@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Exercise Title - Be descriptive!'
+    title: 'Exercise Title - Be descriptive.'
     description: 'Sentence describing the lab. Include names of key technologies and products'
     duration: 00 <!-- duration in minutes -->
     level: 100 <!-- 100 basic concepts, 200 foundations, 300 practical usage, 400 advanced scenarios, 500 expert design -->

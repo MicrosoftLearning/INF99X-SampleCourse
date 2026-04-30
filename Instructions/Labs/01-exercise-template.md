@@ -5,8 +5,8 @@ lab:
     duration: 00 <!-- duration in minutes -->
     level: 100 <!-- 100 basic concepts, 200 foundations, 300 practical usage, 400 advanced scenarios, 500 expert design -->
     islab: true <!-- if this is not a lab that should be listed in the catalog, set to false -->
-    status: 'in-development' <!-- 'in-development' or 'released' -->
-    targetDate: 2099-01-01 <!-- Set to the future date when you expect an in-development lab to be released -->
+    status: 'in-development' <!-- in-development or released -->
+    targetDate: '2099-01-01' <!-- Set to the future date when you expect an in-development lab to be released -->
 ---
 <!--
 Edit the metadata above to manage the list of exercises in the home page of the GitHub site that gets generated.

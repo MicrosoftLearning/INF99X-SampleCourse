@@ -1,8 +1,7 @@
 ---
 lab:
     title: 'Exercise Title - Be descriptive.'
-    module: 'Related module title'
-    description: 'Sentence describing the lab. Include names of key technologies and products'
+    description: 'Rich description for the lab objectives. Include names of key technologies and products'
     duration: 00  # duration in minutes
     level: 100 # 100 basic concepts, 200 foundations, 300 practical usage, 400 advanced scenarios, 500 expert design
     islab: true # Set to true for catalog discovery; set to false to exclude from catalog discovery.
@@ -19,7 +18,7 @@ To enable GitHub page publishing, edit the Page settings for the repo and publis
 
 # Exercise title <!-- match title in metadata above (and Learn Exercise unit and ILT slide)-->
 
-In this exercise you will <!-- provide a description of what they'll do and why it;s important -->
+In this exercise you will <!-- provide a description of what they'll do and why it's important -->
 
 This exercise should take approximately **XX** minutes to complete. <!-- update with estimated duration -->
 

@@ -1,7 +1,6 @@
 ---
 lab:
     title: 'Challenge lab title'
-    module: 'Related module title'
     description: 'Describe the advanced scenario, key technologies, and measurable outcome.'
     duration: 120 # Duration in minutes.
     level: 400 # Set the level to match the content, not the challenge format.
